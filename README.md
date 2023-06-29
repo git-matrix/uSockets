@@ -1,3 +1,6 @@
+# This is Fork of <a href="https://uNetworking/uSockets">uSockets</a>
+I have just left things are required to keep things running
+
 # Optimized TCP, TLS, QUIC & HTTP3 transports
 
 µSockets is the non-blocking, thread-per-CPU foundation library used by [µWebSockets](https://github.com/uNetworking/uWebSockets). It provides optimized networking - using the same opaque API (programming interface) across all supported transports, event-loops and platforms (QUIC is work-in-progress, so is io_uring).
